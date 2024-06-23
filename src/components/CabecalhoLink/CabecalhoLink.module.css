@@ -1,0 +1,21 @@
+.link{
+    color: var(--branco);
+    text-decoration: none;
+    padding: 0.75em;
+    font-family: var(--fontePrimaria);
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 900;
+    border: 1px solid var(--marinho);
+    border-radius: 15px;
+    text-align: center;
+    color: var(--marinho);
+    border: 2px solid var(--marinho);
+    box-shadow: 3px 1px 10px 3px var(--marinho);
+}
+
+.link:nth-child(2){
+    color: var(--marinho);
+    border: 2px solid var(--marinho);
+    box-shadow: 3px 1px 10px 3px var(--marinho);
+}

@@ -1,0 +1,40 @@
+.container{
+	border-radius: 4px;
+	box-shadow: 3px 1px 10px 3px var(--marinho);
+	padding: 20px;
+	width: 432px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center; 
+    
+
+}
+
+/* img{
+    width: 432px;
+    height: 260px;
+} */
+
+.capa{
+    box-shadow: 3px 1px 10px 3px var(--marinho);
+    border-radius: 0 5px 5px 5px;
+    background-color: #000000E5;
+	padding-bottom: 20px;
+	text-align: center;
+    width: 432px;
+    height: 260px;
+}
+
+h2, .titulo{
+    color: var(--branco);
+    padding: 0 1em;
+    
+}
+
+capa
+
+img, .editar{
+    width: 25px;
+}

@@ -1,0 +1,12 @@
+.texto h2{
+    font-family: var(--fonteSecundaria);
+    font-weight: 800;
+    color: var(--branco);
+    background-color: var(--azul);
+    width: 432px;
+    height: 70px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
